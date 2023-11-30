@@ -1,16 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset=""utf-8"">
-  <meta name=""viewport"" content=""width=device-width"">
-  <title>TP Elecciones Miranda & Nottebohm</title>
-</head>
-<body>
-   <font face="Arial"><h1>TP Elecciones Miranda & Nottebohm</h1>
+#TP Elecciones Miranda & Nottebohm
      
      [1](https://magdalenanottebohm.github.io/infovis/tp_elecciones_miranda_y_nottebohm_grafico_1.html)
      
      [2](https://magdalenanottebohm.github.io/infovis/tp_elecciones_miranda_y_nottebohm_grafico_2.html)
      
      [3](https://magdalenanottebohm.github.io/infovis/tp_elecciones_miranda_y_nottebohm_grafico_3.html)
-</html>
